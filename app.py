@@ -21,7 +21,7 @@ fechas_recibidos = df_recibidos['Fecha-Texto'].unique()
 fechas_cedidos = df_cedidos['Fecha-Texto'].unique()
 
 # Título de la aplicación
-st.title("Comparación de Montos Recibidos y Cedidos")
+st.title("CONSAR: Comparación de Montos Recibidos y Cedidos")
 
 # Sección de ayuda
 st.sidebar.title("Ayuda")
