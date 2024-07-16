@@ -77,4 +77,4 @@ st.write("Resultado de la Comparación:")
 st.dataframe(df_resultado)
 
 # Aviso de copyright
-st.sidebar.write("\n\n© 2024 jahoperi. todos los derechos reservados")
+st.sidebar.write("\n\n© 2024 todos los derechos reservados. Creado por jahoperi")
