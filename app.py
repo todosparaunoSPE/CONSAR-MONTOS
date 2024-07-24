@@ -77,4 +77,10 @@ st.write("Resultado de la Comparación:")
 st.dataframe(df_resultado)
 
 # Aviso de copyright
-st.sidebar.write("\n\n© 2024 Todos los derechos reservados. Creado por jahoperi")
+#st.sidebar.write("\n\n© 2024 Todos los derechos reservados. Creado por jahoperi")
+
+# Pie de página en la barra lateral
+st.sidebar.write("© 2024 Todos los derechos reservados")
+st.sidebar.write("© 2024 Creado por: Javier Horacio Pérez Ricárdez")
+st.sidebar.write("PensionISSSTE: Analista UEAP B")
+
